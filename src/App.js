@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { LanguageProvider } from './context/LanguageContext';
 import Layout from './components/Layout';
 
+import LandingPage from './pages/LandingPage';
 import LanguageSelection from './pages/LanguageSelection';
 import Login from './pages/Login';
 import Home from './pages/Home';
@@ -21,7 +22,8 @@ const App = () => {
     <LanguageProvider>
       <Router>
         <Routes>
-          <Route path="/" element={<LanguageSelection />} />
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/select-language" element={<LanguageSelection />} />
           <Route path="/login" element={<Login />} />
 
           {/* Protected/App Routes wrapped in Layout */}
