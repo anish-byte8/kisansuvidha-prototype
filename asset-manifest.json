@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kisansuvidha-prototype/static/css/main.731caf53.css",
-    "main.js": "/kisansuvidha-prototype/static/js/main.f88cd154.js",
+    "main.css": "/kisansuvidha-prototype/static/css/main.c7b9033c.css",
+    "main.js": "/kisansuvidha-prototype/static/js/main.14c7b311.js",
     "index.html": "/kisansuvidha-prototype/index.html",
-    "main.731caf53.css.map": "/kisansuvidha-prototype/static/css/main.731caf53.css.map",
-    "main.f88cd154.js.map": "/kisansuvidha-prototype/static/js/main.f88cd154.js.map"
+    "main.c7b9033c.css.map": "/kisansuvidha-prototype/static/css/main.c7b9033c.css.map",
+    "main.14c7b311.js.map": "/kisansuvidha-prototype/static/js/main.14c7b311.js.map"
   },
   "entrypoints": [
-    "static/css/main.731caf53.css",
-    "static/js/main.f88cd154.js"
+    "static/css/main.c7b9033c.css",
+    "static/js/main.14c7b311.js"
   ]
 }
